@@ -53,4 +53,6 @@ To run tests, run these commands:
 ```
 npm test
 ```
+node index.js
+```
 
