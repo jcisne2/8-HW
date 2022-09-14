@@ -51,6 +51,9 @@ Contact me at Cisnejos000@gmail.com
 To run tests, run these commands:
 
 ```
+npm i
+```
+```
 npm test
 ```
 ```
