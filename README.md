@@ -1,4 +1,4 @@
-# Team Profile Geverator
+# Team Profile Generator
 
 ## Video Link
 
