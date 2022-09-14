@@ -6,7 +6,7 @@ https://drive.google.com/file/d/1TKSAldSSMMfJYGdY5lJDcSI8dUT-xBV2/view
 
 ## Github URL 🌐
 
-https://github.com/Jcisne2/
+https://github.com/jcisne2/8-HW
 
 ## Description 📝
 
